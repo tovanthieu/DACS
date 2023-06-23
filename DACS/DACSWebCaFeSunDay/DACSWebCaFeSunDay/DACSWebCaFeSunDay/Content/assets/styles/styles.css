@@ -1,0 +1,36 @@
+﻿.bodycafe {
+    background-color: #f8f8f8;
+    color: #000;
+}
+.headercafe {
+    background-image: url("/Content/assets/images/Navigation.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+}
+
+.brown-content {
+    background-color: saddlebrown;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: black;
+}
+.add-to-cart-buttonn {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+    .add-to-cart-buttonn:hover {
+        background-color: #45a049;
+    }
+
+    .add-to-cart-buttonn:active {
+        background-color: #3e8e41;
+    }
